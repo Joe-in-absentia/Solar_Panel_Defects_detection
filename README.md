@@ -58,7 +58,7 @@ AI-powered Solar Panel Defect Detection system built using MobileNetV2 and Strea
 
 ### 🔹 Prediction Output
 
-(Add screenshot here)
+![Main Dashboard](https://github.com/Joe-in-absentia/Solar_Panel_Defects_detection/blob/c3931e351ad14156c0bea110eb8b6023e120bbbe/main.png)
 
 ---
 
