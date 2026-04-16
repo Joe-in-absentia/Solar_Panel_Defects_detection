@@ -18,9 +18,6 @@ AI-powered Solar Panel Defect Detection system built using MobileNetV2 and Strea
 
 * 📤 Upload solar panel image
 * 🔍 Predict defect type
-* 📊 Show confidence score
-* 📈 Display probability chart
-* 🎨 Custom UI with background + gradient
 * 🖱️ Predict button
 
 ---
@@ -47,17 +44,6 @@ AI-powered Solar Panel Defect Detection system built using MobileNetV2 and Strea
 
 * ✅ Training Accuracy: ~91%
 * 🔥 Validation Accuracy: ~85.6%
-
----
-
-## 🖥️ Run the App
-
-```bash
-git clone https://github.com/your-username/solar-defect-detection.git
-cd solar-defect-detection
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
@@ -89,16 +75,6 @@ This project demonstrates how deep learning can automate solar panel defect dete
 
 The Streamlit interface makes the system interactive and user-friendly, showcasing a complete end-to-end AI solution with real-world relevance.
 
----
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/your-username
-
----
-
-⭐ Star this repo if you like it!
 
 
 
