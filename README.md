@@ -1,25 +1,26 @@
 # ☀️ Solar Panel Defect Detection System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge)
-![Model](https://img.shields.io/badge/MobileNetV2-TransferLearning-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![Model](https://img.shields.io/badge/MobileNetV2-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
-## 🚀 Project Overview
+## 📌 About
 
-This project is a **Deep Learning-based web application** that detects defects in solar panels using image classification.
-
-Users can upload an image of a solar panel, and the system predicts the defect type with confidence.
+AI-powered Solar Panel Defect Detection system built using MobileNetV2 and Streamlit. The model classifies solar panel images into multiple defect categories with confidence scores. This project demonstrates an end-to-end deep learning pipeline, from data preprocessing and training to deployment.
 
 ---
 
-## 🎯 Features
+## 🚀 Features
 
 * 📤 Upload solar panel image
 * 🔍 Predict defect type
+* 📊 Show confidence score
+* 📈 Display probability chart
+* 🎨 Custom UI with background + gradient
 * 🖱️ Predict button
 
 ---
@@ -44,8 +45,19 @@ Users can upload an image of a solar panel, and the system predicts the defect t
 
 ## 📊 Model Performance
 
-* ✅ Training Accuracy: **~91%**
-* 🔥 Validation Accuracy: **~85.6%**
+* ✅ Training Accuracy: ~91%
+* 🔥 Validation Accuracy: ~85.6%
+
+---
+
+## 🖥️ Run the App
+
+```bash
+git clone https://github.com/your-username/solar-defect-detection.git
+cd solar-defect-detection
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 
@@ -68,5 +80,25 @@ Users can upload an image of a solar panel, and the system predicts the defect t
 * Streamlit
 * NumPy
 * PIL
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how deep learning can automate solar panel defect detection efficiently. By using MobileNetV2 with transfer learning, the model achieves strong accuracy while remaining lightweight.
+
+The Streamlit interface makes the system interactive and user-friendly, showcasing a complete end-to-end AI solution with real-world relevance.
+
+---
+
+## 👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/your-username
+
+---
+
+⭐ Star this repo if you like it!
+
 
 
