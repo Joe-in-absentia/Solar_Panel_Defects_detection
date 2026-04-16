@@ -4,8 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-green)
 ![Model](https://img.shields.io/badge/MobileNetV2-lightgrey)
-![Streamlit](https://img.shields.io/badge/Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 Python • TensorFlow • Deep Learning • MobileNetV2 • Streamlit
 
