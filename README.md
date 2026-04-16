@@ -1,10 +1,9 @@
 # ☀️ Solar Panel Defect Detection System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
-![Model](https://img.shields.io/badge/MobileNetV2-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-green)
 
 ---
 
