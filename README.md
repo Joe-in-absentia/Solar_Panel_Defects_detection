@@ -49,9 +49,9 @@ This project compares **MobileNetV2, ResNet50, and EfficientNetB0**, and selects
 
 ## 📊 Model Performance
 
-* MobileNetV2 Accuracy: ~76%
-* ResNet50 Accuracy: ~52%
-* EfficientNetB0 Accuracy: ~85% ✅
+* MobileNetV2 Accuracy: ~81%
+* ResNet50 Accuracy: ~88% ✅
+* EfficientNetB0 Accuracy: ~83% 
 
 ---
 
