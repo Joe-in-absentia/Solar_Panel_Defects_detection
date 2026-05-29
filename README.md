@@ -22,10 +22,10 @@ This project compares **MobileNetV2, ResNet50, and EfficientNetB0**, and selects
 
 ## 🚀 Features
 
-* 📤 Upload solar panel image
-* 🔍 Predict defect type
-* 📊 Show prediction confidence
-* 🖱️ Simple and interactive interface
+*  Upload solar panel image
+*  Predict defect type
+*  Show prediction confidence
+*  Simple and interactive interface
 
 ---
 
@@ -55,7 +55,7 @@ This project compares **MobileNetV2, ResNet50, and EfficientNetB0**, and selects
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Main Dashboard
 
